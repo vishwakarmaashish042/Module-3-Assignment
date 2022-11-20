@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+.navbar {
+
+	border: none;
+	background-color: rgb(165, 159, 159);
+	color: #000000;
+}
+
+body {
+	background-color: #ffffff;
+	color: rgb(0, 0, 0);
+}
+
+.glyphicon {
+	font-size: 30px;
+	color: #000000;
+}
+
+.center {
+	width: 90%;
+	background-color: rgb(181, 179, 179);
+}
+
+.container {
+	background-color: rgb(187, 180, 180);
+}
+
+h1 p {
+	font-size: 30px;
+}
+
+#myNavbar ul li a {
+	color: #000000;
+	/* text-align: center; */
+	font-weight: bolder;
+	margin: 0 20px;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	color: rgb(0, 0, 0);
+	font-weight: bolder;
+}
